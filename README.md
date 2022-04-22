@@ -65,6 +65,20 @@ We are handling with commend such as:
 * `Show Files` - Shows the all the file that exists in the server.
 * `Disconnect` - Disconnecting from the server.
 
+# How to use :
+* Clone this ripository
+
+Windows:
+* Double click on the `server.py`
+* Double click on the `client.py` (You can do it multiple times)
+* Start to chat.
+
+Linux:
+* Open terminal on the dictionary
+* Use the command `python3 server.py` to start the server
+* Use the command `python3 client.py` to open a gui and connect as a client (You can do it multiple times)
+* Start to chat
+
 # Gui :
 
 ![guiiii](https://user-images.githubusercontent.com/92504985/164764017-d70bda01-b9a3-451f-9795-e4585169fbb9.PNG)
