@@ -79,8 +79,10 @@ Linux:
 * Use the command `python3 client.py` to open a gui and connect as a client (You can do it multiple times)
 * Start to chat
 
-# Gui :
+# Running video + packet loss :
 
-![guiiii](https://user-images.githubusercontent.com/92504985/164764017-d70bda01-b9a3-451f-9795-e4585169fbb9.PNG)
+https://user-images.githubusercontent.com/92504985/164769469-f0c92fad-5a32-451c-abaf-e4ea381e60c6.mp4
+
+
 
 
