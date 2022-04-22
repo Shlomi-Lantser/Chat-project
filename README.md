@@ -42,7 +42,7 @@ data structure and send ack to the server, the methos we use in is
 didn’t got it? Send again and again, in this way we ensure that all
 the packet will arrive to the wanted destination.
 
-![gokuuuu](https://user-images.githubusercontent.com/92504985/164762978-69be2571-bf56-470c-a7d3-daee59c88c9e.png)
+![gokuuuu](https://user-images.githubusercontent.com/92504985/164762978-69be2571-bf56-470c-a7d3-daee59c88c9e.png) | width=100
 
 # The handle function
 The main goal of this function is to handle with all the requests
